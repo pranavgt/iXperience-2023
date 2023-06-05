@@ -1,2 +1,2 @@
-# iXperience-2023
+# ixperience-2023
 This is the homework repo
